@@ -5,6 +5,8 @@
 - 📒 Faço graduação de *ANÁLISE E DESENVOLVIMENTO DE SISTEMAS*.
 - 🏢 Trabalho como auxiliar administrativo, estou em transição de carreira para desenvolvedor.
 
+  ![Snake animation](https://github.com/saviohsamuel/blob/output/github-contribution-grid-snake.svg)
+
 #### 💻 Tecnologias e ferramentas
 <div style="display: inline-block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
