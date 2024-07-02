@@ -1,9 +1,10 @@
 ## Olá, me chamo Savio Samuel
 ### Bem-vindo ao meu perfil Github
 
-- Tenho 24 anos, 🌅 moro em Fortaleza/CE, 🎓 Sou formado em tecnico em administração.
-- 📒 Faço graduação de *ANÁLISE E DESENVOLVIMENTO DE SISTEMAS*.
-- 🏢 Trabalho como auxiliar administrativo, estou em transição de carreira para desenvolvedor.
+- Tenho 24 anos, 🌅 moro em Fortaleza/CE.
+- Faço graduação de *ANÁLISE E DESENVOLVIMENTO DE SISTEMAS* 🎓.
+- Estou estudando área da tecnologa para transição de carreira para desenvolvedor front-end.
+- Atualmente estou estudando as...
 
 #### 💻 Tecnologias e ferramentas
 <div style="display: inline-block">
@@ -13,5 +14,5 @@
 </div>
 
 #### 📲 Contatos
-📨 Você pode falar comigo pelo <a href="https://instagram.com/saviohsamuel" target="_blank">Instagram</a> ou <a href = "mailto:saviosamuel013@gmail.com">Gmail</a>.
+📨 Você pode falar comigo pelo <a href="https://instagram.com/saviohsamuel" target="_blank">Instagram</a> ou <a href = "https://www.linkedin.com/in/s%C3%A1vio-samuel/">Linkedin</a>.
 - E pode conhecer alguns dos meus projetos já desenvolvidos no meu repositório.
