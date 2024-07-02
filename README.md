@@ -16,5 +16,3 @@
 #### 📲 Contatos
 📨 Você pode falar comigo pelo <a href="https://instagram.com/saviohsamuel" target="_blank">Instagram</a> ou <a href = "https://www.linkedin.com/in/s%C3%A1vio-samuel/">Linkedin</a>.
 - E pode conhecer alguns dos meus projetos já desenvolvidos no meu repositório.
-
-![Snake animation](https://github.com/saviohsamuel/saviohsamuel/blob/output/github-contribution-grid-snake.svg)
