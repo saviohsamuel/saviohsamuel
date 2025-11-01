@@ -1,10 +1,10 @@
 <div>
-  <img style="100%" width="200%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&reversal=false&text=Savio%20Samuel&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" width="200%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&reversal=false&text=Olá,%20Bem-vindo%20ao%20meu%20perfil!&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<p align="left">Graduado em Análise e desenvolvimento de sistemas, estou em transição de carreira.<br><br>Sou formado como técnico em administração, com mais de 3 anos de experiência, sou organizado e possuo bom relacionamento interpessoal, tenho bastante disposição, curiosidade e vontade para aprender coisas novas.<br><br>Estou em busca da primeira oportunidade como desenvolvedor, com foco no desenvolvimento front-end.</p>
+<p align="left">🖥️ Em transição de carreira.<br>🎓Graduado em Análise e desenvolvimento de sistemas.<br><br>Também sou formado como técnico em administração , com mais de 3 anos de experiência, sou organizado e possuo bom relacionamento interpessoal, tenho bastante disposição, curiosidade e vontade para aprender coisas novas.<br><br>Estou em busca da primeira oportunidade como desenvolvedor, com foco no desenvolvimento front-end.</p>
 
 ###
 
