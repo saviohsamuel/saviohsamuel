@@ -4,32 +4,19 @@
 
 ###
 
-<p align="left">🖥️ Em transição de carreira.<br>🎓Graduado em Análise e desenvolvimento de sistemas.<br><br>Também sou formado como técnico em administração , com mais de 3 anos de experiência, sou organizado e possuo bom relacionamento interpessoal, tenho bastante disposição, curiosidade e vontade para aprender coisas novas.<br><br>Estou em busca da primeira oportunidade como desenvolvedor, com foco no desenvolvimento front-end.</p>
+<p align="left">Sou graduado em 🎓 Análise e Desenvolvimento de Sistemas e estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento front-end.
 
-###
+Também sou formado como técnico em administração, tenho mais de 3 anos de experiência como auxiliar administrativo, atuando com organização de processos, atendimento, suporte a equipes e rotinas operacionais, experiências que me ajudaram a desenvolver senso de responsabilidade, comunicação clara e visão de processos.</p>
 
-<h5 align="left">🖥️ Habilidades:</h5>
-
-###
-
+<p>Atualmente, estou me dedicando aos estudos em desenvolvimento front-end, aprofundando conhecimentos em:</p>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
-
-###
-
-<p align="left">E também possuo conhecimentos em:</p>
-
-###
-
+<p>Além de tecnologias como:</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -37,24 +24,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
+<p>buscando unir lógica, design e boas práticas de código.</p>
 
-###
+<p>Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor 🖥️, aplicar na prática o que venho estudando e crescer profissionalmente na área de tecnologia, evoluindo de forma contínua e colaborativa.</p>
 
 <h5 align="left">Redes sociais!</h5>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/s%C3%A1vio-samuel-33b016310/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/saviohsamuel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
+<a href="https://www.linkedin.com/in/s%C3%A1vio-samuel-33b016310/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+</a>
 <p align="left">Fale comigo!</p>
 
 ###
